@@ -15,6 +15,7 @@ Connect with me: </b><br>
 <a href="mailto:harishaa827@gmail.com"><img align="center" title="Mail - Harish" alt="Mail" width="22px" src="./logos/gmail.svg" /></a>
 
 <br>
+<br>
   
 Programming Languages I work with: <br>
 <img align="center" title="Python" alt="python" width="26px" src="./logos/python.svg" />
