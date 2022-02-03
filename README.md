@@ -11,7 +11,7 @@
 <b>
 Connect with me: </b><br>
 <br>
-<a href="https://www.linkedin.com/in/harish-mohd-7177b622b/"><img align="center" title="LinkedIn - Harish" alt="LinkedIn" width="22px" src="./logos/instagram.png" /></a>
+<a href="https://www.linkedin.com/in/harish-mohd-7177b622b/"><img align="center" title="LinkedIn - Harish" alt="LinkedIn" width="22px" src="./logos/iconmonstr-instagram-15.svg" /></a>
 <a href="https://www.instagram.com/therealharish/"><img align="center" title="Instagram - Harish" alt="Instagram" width="22px" src="./logos/instagram.svg" /></a>
 <a href="mailto:harishaa827@gmail.com"><img align="center" title="Mail - Harish" alt="Mail" width="22px" src="./logos/gmail.svg" /></a>
 
