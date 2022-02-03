@@ -6,8 +6,8 @@
 <p align = "center"> <img  title="Harish" alt="Harish" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> </p>
 
 <br>
+<br>
 
-<h3 align = "center">
 <b>
 Connect with me: </b><br>
 <a href="https://www.linkedin.com/in/harish-mohd-7177b622b/"><img align="center" title="LinkedIn - Harish" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" /></a>
