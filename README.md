@@ -20,3 +20,4 @@ Programming Languages I work with: <br>
 <img align="center" title="Javascript" alt="Javascript" width="26px" src="./logos/javascript.svg" />
 <img align="center" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" />
 <img align="center" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />
+<img align="center" title="C" alt="C" width="26px" src="./logos/c.svg" />
