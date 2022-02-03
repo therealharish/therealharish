@@ -14,7 +14,7 @@ Connect with me: </b><br>
 <a href="https://www.instagram.com/therealharish/"><img align="center" title="Instagram - Harish" alt="Instagram" width="22px" src="./logos/instagram.svg" /></a>
 <a href="mailto:harishaa827@gmail.com"><img align="center" title="Mail - Harish" alt="Mail" width="22px" src="./logos/gmail.svg" /></a>
 
- <br>
+<br>
   
 Programming Languages I work with: <br>
 <img align="center" title="Python" alt="python" width="26px" src="./logos/python.svg" />
