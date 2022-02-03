@@ -31,4 +31,6 @@ Tools I use: <br>
 <img align="center" title="Android" alt="Android" width="26px" src="./logos/android.svg" />
 </h3>
 <br>
+<div align = "center">
 <img align="center" title="stats" alt="stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</div>
