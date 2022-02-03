@@ -32,5 +32,5 @@ Tools I use: <br>
 </h3>
 <br>
 <div align = "center">
-<img align="center" title="stats" alt="stats" src="https://github-readme-stats.vercel.app/api?username=therealharish" />
+<img align="center" title="stats" alt="stats" src="https://github-readme-stats.vercel.app/api?username=therealharish&theme=dark&show_icons=true&locale=en" />
 </div>
