@@ -6,8 +6,7 @@
 <p align = "center"> <img  title="Harish" alt="Harish" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> </p>
 
 <h3 align = "center">
-<b>
-Connect with me: </b><br>
+Connect with me: <br>
 <a href="https://www.linkedin.com/in/harish-mohd-7177b622b/"><img align="center" title="LinkedIn - Harish" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" /></a>
 <a href="https://www.instagram.com/therealharish/"><img align="center" title="Instagram - Harish" alt="Instagram" width="22px" src="./logos/instagram.svg" /></a>
 <a href="mailto:harishaa827@gmail.com"><img align="center" title="Mail - Harish" alt="Mail" width="22px" src="./logos/gmail.svg" /></a>
@@ -23,7 +22,6 @@ Programming Languages I work with: <br>
 <img align="center" title="C" alt="C" width="26px" src="./logos/c.svg" />
   
 <br>
-
 Tools I use: <br>
 <img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="./logos/visualstudiocode.svg" />
 <img align="center" title="JetBrains PyCharm" alt="JetBrains PyCharm" width="26px" src="./logos/pycharm.svg" />
