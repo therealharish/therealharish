@@ -23,7 +23,6 @@ Programming Languages I work with: <br>
 <img align="center" title="C" alt="C" width="26px" src="./logos/c.svg" />
   
 <br>
-<br>
 
 Tools I use: <br>
 <img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="./logos/visualstudiocode.svg" />
