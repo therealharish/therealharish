@@ -21,3 +21,16 @@ Programming Languages I work with: <br>
 <img align="center" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" />
 <img align="center" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />
 <img align="center" title="C" alt="C" width="26px" src="./logos/c.svg" />
+  
+<br>
+ <br>
+
+ Tools I use: <br>
+
+<img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="./logos/visualstudiocode.svg" />
+<img align="center" title="JetBrains PyCharm" alt="JetBrains PyCharm" width="26px" src="./logos/pycharm.svg" />
+<img align="center" title="Discord" alt="Discord" width="26px" src="./logos/discord.svg" />
+<img align="center" title="Git" alt="Git" width="26px" src="./logos/git.svg" />
+<img align="center" title="GitHub" alt="GitHub" width="26px" src="./logos/github.svg" />
+<img align="center" title="Android" alt="Android" width="26px" src="./logos/android.svg" />
+</h3>
