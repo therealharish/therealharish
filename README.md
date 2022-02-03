@@ -30,3 +30,5 @@ Tools I use: <br>
 <img align="center" title="GitHub" alt="GitHub" width="26px" src="./logos/github.svg" />
 <img align="center" title="Android" alt="Android" width="26px" src="./logos/android.svg" />
 </h3>
+<br>
+<img align="center" title="stats" alt="stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
