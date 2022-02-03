@@ -6,7 +6,6 @@
 <p align = "center"> <img  title="Harish" alt="Harish" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> </p>
 
 <br>
-<br>
 
 <h3 align = "center">
 <b>
