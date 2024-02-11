@@ -18,14 +18,11 @@
 <br />
 
 <div align = "center">
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=therealharish&show_icons=true&locale=en&layout=compact" alt="therealharish" /></p>
-</div>
-<div align = "center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therealharish&show_icons=true&locale=en" alt="therealharish" /></p>
+<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=therealharish&theme=dark&show_icons=true&locale=en&layout=compact" alt="therealharish" /></p>
 </div>
 
 <div align = "center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therealharish&" alt="therealharish" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therealharish&theme=dark" alt="therealharish" /></p>
 </div>
 
 <br>
