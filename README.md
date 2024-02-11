@@ -5,8 +5,6 @@
 <hr style="width:50%;text-align:left;margin-left:0">
 <p align = "center"> <img  title="Harish" alt="Harish" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealharish" alt="therealharish" /></a> </p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/harish-mohd-7177b622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish-mohd-7177b622b" height="30" width="40" /></a>
@@ -23,32 +21,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therealharish&" alt="therealharish" /></p>
 
-
-<h3 align = "center">
-Connect with me: <br>
-<a href="https://www.linkedin.com/in/harish-mohd-7177b622b/"><img align="center" title="LinkedIn - Harish" alt="LinkedIn" width="22px" src="./logos/linkedin.svg" /></a>
-<a href="https://www.instagram.com/therealharish/"><img align="center" title="Instagram - Harish" alt="Instagram" width="22px" src="./logos/instagram.svg" /></a>
-<a href="mailto:harishaa827@gmail.com"><img align="center" title="Mail - Harish" alt="Mail" width="22px" src="./logos/gmail.svg" /></a>
-
-<br>
-<br>
-  
-Programming Languages I work with: <br>
-<img align="center" title="Python" alt="python" width="26px" src="./logos/python.svg" />
-<img align="center" title="Javascript" alt="Javascript" width="26px" src="./logos/javascript.svg" />
-<img align="center" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" />
-<img align="center" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />
-<img align="center" title="C" alt="C" width="26px" src="./logos/c.svg" />
-  
-<br>
-Tools I use: <br>
-<img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="./logos/visualstudiocode.svg" />
-<img align="center" title="JetBrains PyCharm" alt="JetBrains PyCharm" width="26px" src="./logos/pycharm.svg" />
-<img align="center" title="Discord" alt="Discord" width="26px" src="./logos/discord.svg" />
-<img align="center" title="Git" alt="Git" width="26px" src="./logos/git.svg" />
-<img align="center" title="GitHub" alt="GitHub" width="26px" src="./logos/github.svg" />
-<img align="center" title="Android" alt="Android" width="26px" src="./logos/android.svg" />
-</h3>
 <br>
 <div align = "center">
 <img align="center" title="stats" alt="stats" src="https://github-readme-stats.vercel.app/api?username=therealharish&theme=dark&show_icons=true&locale=en" />
