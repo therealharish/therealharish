@@ -25,7 +25,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therealharish&theme=dark" alt="therealharish" /></p>
 </div>
 
-<br>
 <div align = "center">
 <img align="center" title="stats" alt="stats" src="https://github-readme-stats.vercel.app/api?username=therealharish&theme=dark&show_icons=true&locale=en" />
 </div>
